@@ -5,6 +5,7 @@
 
 ## 📖 프로젝트 이름 : PReview(프리뷰)
 ![image](https://user-images.githubusercontent.com/67186222/99812142-6e8a3f80-2b89-11eb-9aed-367acc3ca66b.png)
+
 PReview는 코딩 강의 및 코딩 캠프에 대한 리뷰, 코딩 문제 및 프로젝트에 대한 솔루션 등의 정보를 공유하는 커뮤니티를 제공하는 플랫폼입니다.
 
 
