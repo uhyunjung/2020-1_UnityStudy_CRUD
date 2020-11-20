@@ -2,8 +2,9 @@
 유니티 스터디(3D, 2D 기본)
 
 ## 2020-2 오픈SW플랫폼 프로젝트
-![image](https://user-images.githubusercontent.com/67186222/99812142-6e8a3f80-2b89-11eb-9aed-367acc3ca66b.png)
 ## 프로젝트 이름 : PReview(프리뷰)
+![image](https://user-images.githubusercontent.com/67186222/99812142-6e8a3f80-2b89-11eb-9aed-367acc3ca66b.png)
+
 ## 팀원 소개
 |학번|이름|
 |------|---|
