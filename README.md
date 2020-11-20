@@ -25,7 +25,7 @@ PReview는 코딩 강의 및 코딩 캠프에 대한 리뷰, 코딩 문제 및 �
 3. Coding Camp Reviews(코딩 캠프 리뷰)
 4. Community(커뮤니티)
 5. Keyword Search(검색)-Search by tags and keywords
-6. Visualization-The number of reviews and average of star rating
+6. Visualization(시각화)-The number of reviews and average of star rating
 
 
 ## 📁 디렉토리 구조
@@ -35,4 +35,7 @@ PReview는 코딩 강의 및 코딩 캠프에 대한 리뷰, 코딩 문제 및 �
 
 
 ## 😀 개발 규칙
-
+개발하기 전 pull 필수
+각자의 이름 branch에서 커밋하기
+pull request 후 main branch에 merge 하기
+commit 메세지 : 기능 추가, 기능 수정
