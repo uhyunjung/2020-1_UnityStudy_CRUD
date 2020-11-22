@@ -38,4 +38,4 @@ PReview는 코딩 강의 및 코딩 캠프에 대한 리뷰, 코딩 문제 및 �
 1. 개발하기 전 pull 필수
 2. 각자의 이름 branch에서 커밋하기
 3. pull request 후 main branch에 merge 하기
-4. commit 메세지 : 기능 추가, 기능 수정
+4. commit 메세지 : 기능 추가 / 기능 수정
