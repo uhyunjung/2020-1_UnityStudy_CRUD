@@ -28,9 +28,6 @@ PReview는 코딩 강의 및 코딩 캠프에 대한 리뷰, 코딩 문제 및 �
 6. Visualization(시각화)-The number of reviews and average of star rating
 
 
-## 📁 디렉토리 구조
-
-
 ## ⚙️ 언어 및 환경
 
 
