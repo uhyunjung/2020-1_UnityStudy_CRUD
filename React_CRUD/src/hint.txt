@@ -1,0 +1,14 @@
+A/c transaction 
+
+WITHOUT REDUX
+=============
+
+components
+    - TransactionList
+    |
+    |                              localStorage as DB
+    +--- TransactionForm
+
+    state (TransactionList)
+    *list
+    *currentIndex
